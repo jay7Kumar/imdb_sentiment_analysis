@@ -13,5 +13,9 @@ Step 4: Update the parameters (only train)
 Step 5: Repeat steps 1 - 4
 
 # Loss Metrics
+![alt text](https://github.com/jay7Kumar/imdb_sentiment_analysis/blob/main/loss_metrics1.png)
+
+![alt text](https://github.com/jay7Kumar/imdb_sentiment_analysis/blob/main/loss_metrics2.png)
 
 # Confusion Matrix
+![alt text](https://github.com/jay7Kumar/imdb_sentiment_analysis/blob/main/confusion_matrix.png) 
